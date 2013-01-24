@@ -1,3 +1,7 @@
+This is forked version of jruby-memcached-client gem. It was forked and published as its own gem because the original owners have not published an updated gem for 3 years. Also the published gem depends on the development version of the jar and throws ugly exceptions when connection is lost.
+- Sudhindra Rao
+_____________________________________________________________________________________________________________________
+
 This projects provides memcached based stores for JRuby. It is a gem based on Ikai Lan's jruby-memcache-client project hosted at http://github.com/ikai/jruby-memcache-client/tree
 
 This project is a JRuby wrapper of the Java MemCache library by Greg Whalin
